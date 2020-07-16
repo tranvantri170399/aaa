@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b312b9a1-11b3-40ef-911b-b5971e50dcf5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e387ff66-b226-495b-9d73-1e23985c6c0b</id>
+      <masked>false</masked>
+      <name>query</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>91b76401-170f-46e3-b82f-d9e9fb319af6</id>
+      <masked>false</masked>
+      <name>feelinglucky</name>
+   </variable>
+</TestCaseEntity>
